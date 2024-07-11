@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> BYTE-MD </h1> 
+<h1 align="center"> KINGS-MD </h1> 
 <p align="center"> Simplest BOT on the INTERNET </p>
 
  
@@ -13,7 +13,7 @@
 
 
 
-<p align="center"> BYTE-MD uses
+<p align="center"> KINGS-MD uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
