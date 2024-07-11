@@ -47,7 +47,7 @@ module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
-  VERSION: process.env.VERSION || "2.0.0",
+  VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "*Powered By Kingpin*",
   author: process.env.PACK_AUTHER || "Kingpin",
   packname: process.env.PACK_NAME || "♥️",
